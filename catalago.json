@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "codigo":1,
+            "titulo":"Senhor dos Anéis",
+            "duracao": 90,
+            "atores": ["Ameagoo", "Bilbo"],
+            "anoLancamento": 2010,
+            "emCartaz": true
+        },
+        {
+            "codigo":2,
+            "titulo":"Star Wars",
+            "duracao": 60,
+            "atores": ["SkyWalker", "Yoda"],
+            "anoLancamento": 2015,
+            "emCartaz": false
+        }
+    ]
+}
